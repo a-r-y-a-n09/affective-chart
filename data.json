@@ -1,0 +1,7 @@
+{
+  "prompt": "A single haunting image representing youth suicide as a global crisis. Show silhouettes of young people (teenagers and young adults) arranged in a grid or crowd formation, fading from vibrant color on the left to grayscale/translucent on the right—suggesting invisible loss, presence becoming absence. The background is a world map in muted tones, with certain regions slightly highlighted in red. The composition should feel like a gallery photograph documenting absence, not a chart. Cold, documentary tone. Silent. Dignified. No text, no numbers, no axes, no labels. Editorial photography style, fine art sensibility. Negative: do NOT use: melting, thermometers, skulls, bones, danger symbols, medical imagery, bright colors, infographic style, charts, graphs, sad faces, tears, or obvious death metaphors. Avoid clichés. Keep it subtle and powerful.",
+  "model": "DALL·E 3",
+  "dataset_name": "WHO Global Health Observatory - Suicide Mortality Rate",
+  "dataset_url": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/suicide-mortality-rate-(per-100-000-population)",
+  "insight": "Suicide is the leading cause of death for people aged 15–29 globally, killing more young people annually than war, accidents, or communicable diseases combined."
+}
